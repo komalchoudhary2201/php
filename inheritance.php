@@ -9,7 +9,6 @@ class MainClass{
     }
 }
 
-
 class SubClass extends MainClass{
     function subClsFun(){
         echo "This is sub class function";
